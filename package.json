@@ -1,0 +1,22 @@
+{
+  "name": "securegateway",
+  "version": "1.0.0",
+  "description": "This is a secure way to build API gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makaubenson/secure-API-gateway-NodeJs.git"
+  },
+  "author": "Benson Makau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makaubenson/secure-API-gateway-NodeJs/issues"
+  },
+  "homepage": "https://github.com/makaubenson/secure-API-gateway-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
